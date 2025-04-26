@@ -1,6 +1,6 @@
 {
   "name": "@blaahaj/dropbox-hacking-lister",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Efficiently watch Dropbox for changes using the \"list files\" API",
   "main": "index.js",
   "scripts": {
